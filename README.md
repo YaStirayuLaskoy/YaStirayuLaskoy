@@ -1,15 +1,16 @@
-<p align="center">Oh Omnissiah, guide of the faithful,</p>
-<p align="center">I, Daniil the Python developer, servant of the machine spirit,</p>
-<p align="center">bless this GitHub profile with knowledge of hidden technologies</p>
-<p align="center">and the path of righteousness.</p>
-<p align="center">May my code be pure, my commits be timely,</p>
-<p align="center">and my pull requests be accepted.</p>
-<p align="center">In the name of the Machine God, so be it.</p>
-<p align="center">Blessed be the code.</p>
-<p align="center">Blessed be the repository.</p>
-<p align="center">Blessed be the developer.</p>
-<p align="center">For the Omnissiah and the Imperium of Man.</p>
-<p align="center">Ave Deus Mechanicus.</p>
+<p align="center"><i>Oh Omnissiah, guide of the faithful,</i></p>
+<p align="center"><i>I, Daniil the Python developer, servant of the machine spirit,</i></p>
+<p align="center"><i>bless this GitHub profile with knowledge of hidden technologies</i></p>
+<p align="center"><i>and the path of righteousness.</i></p>
+<p align="center"><i>May my code be pure, my commits be timely,</i></p>
+<p align="center"><i>and my pull requests be accepted.</i></p>
+<p align="center"><i>In the name of the Machine God, so be it.</i></p>
+<p align="center"><i>Blessed be the code.</i></p>
+<p align="center"><i>Blessed be the repository.</i></p>
+<p align="center"><i>Blessed be the developer.</i></p>
+<p align="center"><i>For the Omnissiah and the Imperium of Man.</i></p>
+<p align="center"><i>Ave Deus Mechanicus.</i></p>
+
 
 <details>
     <summary>📂description.py</summary>
